@@ -20,7 +20,7 @@ I'm a **BCA student (2024–2027)** focused on **full-stack development, DSA, ba
 ## 🎓 About Me
 
 - 🎓 BCA, **2024–2027**
-- 📈 Current CGPA: **9.22**
+- 📈 Current SGPA: **9.22**
 - 💻 Interested in **Full-Stack Development** and software engineering
 - 🧠 Practising **DSA and problem solving** with Python / Java
 - 🚀 Building real-world web and backend projects
@@ -103,7 +103,7 @@ A Python/Flask based attendance project using QR-code scanning and webcam integr
 
 <p>
   💻 <a href="https://github.com/hasawork01">GitHub</a><br>
-  💼 LinkedIn — add your LinkedIn URL here
+  💼 <a href="https://www.linkedin.com/in/hasan-mahmud-4b9789304">Linkdin</a>
 </p>
 
 > **Keep learning. Keep building. Keep improving. 🚀**
