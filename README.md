@@ -87,19 +87,18 @@ A Python/Flask based attendance project using QR-code scanning and webcam integr
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/hasawork01/github-snake/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/hasawork01/github-snake/output/github-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/hasawork01/github-snake/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/hasawork01/github-snake/output/github-snake.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/hasawork01/github-snake/output/github-contribution-grid-snake.svg"
       alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/hasawork01/github-snake/output/github-snake.svg"
     />
   </picture>
 </p>
-
 ## 📫 Connect With Me
 
 <p>
