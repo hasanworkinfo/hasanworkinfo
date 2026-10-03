@@ -418,7 +418,7 @@
       </g>
       <text x="36" y="21" class="label-cyan">GitHub</text>
       <text x="96" y="21" class="muted-dots">.......................</text>
-      <text x="175" y="21" class="white-text">github.com/hasawork01</text>
+      <text x="175" y="21" class="white-text">github.com/hasanworkinfo</text>
 
       <!-- Portfolio -->
       <g transform="translate(18, 30)">
@@ -437,7 +437,7 @@
       </g>
       <text x="36" y="59" class="label-cyan">LinkedIn</text>
       <text x="105" y="59" class="muted-dots">......................</text>
-      <text x="175" y="59" class="white-text">CGPA 9.22</text>
+      <text x="175" y="59" class="white-text">SGPA 9.22</text>
 
       <!-- Instagram -->
       <g transform="translate(18, 68)">
