@@ -78,7 +78,7 @@ A Python/Flask based attendance project using QR-code scanning and webcam integr
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=hasawork01&hide=forks,prs_merged,issues,contributed" alt="GitHub profile statistics">
+  <img src="https://gh-readme-profile.vercel.app/api?username=hasanworkinfo&hide=forks,prs_merged,issues,contributed" alt="GitHub profile statistics">
 </p>
 
 <h2 align="center">Contribution Activity 🐍</h2>
@@ -87,22 +87,22 @@ A Python/Flask based attendance project using QR-code scanning and webcam integr
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/hasawork01/github-snake/output/github-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/hasanworkinfo/github-snake/output/github-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/hasawork01/github-snake/output/github-snake.svg"
+      srcset="https://raw.githubusercontent.com/hasanworkinfo/github-snake/output/github-snake.svg"
     />
     <img
       alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/hasawork01/github-snake/output/github-snake.svg"
+      src="https://raw.githubusercontent.com/hasanworkinfo/github-snake/output/github-snake.svg"
     />
   </picture>
 </p>
 ## 📫 Connect With Me
 
 <p>
-  💻 <a href="https://github.com/hasawork01">GitHub</a><br>
+  💻 <a href="https://github.com/hasanworkinfo">GitHub</a><br>
   💼 <a href="https://www.linkedin.com/in/hasan-mahmud-4b9789304">Linkdin</a>
 </p>
 
